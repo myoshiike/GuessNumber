@@ -1,0 +1,30 @@
+#container {
+    width: 250px;
+    margin: 0 auto;
+}
+
+#form {
+    margin: 20px 0;
+}
+
+#results {
+    width: 100%;
+    padding-left: 20px;
+}
+
+#results li {
+    margin-bottom: 10px;
+}
+
+#message {
+    width: 100%;
+    color: #fff;
+}
+
+.correct {
+    background-color: green;
+}
+
+.incorrect {
+    background-color: red;
+}
